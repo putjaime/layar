@@ -1,0 +1,35 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 39.9374863, 
+          "lon": -0.1028074
+        }
+      }, 
+      "id": 1, 
+      "text": {
+        "title": "carre cervantes"
+      }
+    }, 
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 39.9374863, 
+          "lon": -0.1028074
+        }
+      }, 
+      "icon": {
+        "url": "https://github.com/putjaime/layar/blob/master/carrer%20cervantes.jpg"
+      }, 
+      "id": 2, 
+      "text": {
+        "description": "hdiushudhf", 
+        "title": "eifjiejfiejf"
+      }
+    }, 
+  ], 
+  "layar": ""
+}
